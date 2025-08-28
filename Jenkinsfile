@@ -19,7 +19,7 @@ pipeline {
             steps {
 
                 echo "Building application..."
-		echo "Trigger"
+				echo "Trigger"
 
             }
 
